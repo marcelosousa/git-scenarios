@@ -1,1 +1,2 @@
-This is an auxiliary file
+This is an auxiliary file; 
+This is an update to this file
