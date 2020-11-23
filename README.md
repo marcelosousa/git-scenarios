@@ -1,3 +1,3 @@
 # git-scenarios
 
-This is a master change
+This is a long lived branch 1
