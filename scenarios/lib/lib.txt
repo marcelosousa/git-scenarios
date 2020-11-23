@@ -1,1 +1,6 @@
 This is a library file
+
+I have changed how the dependency interacts with the lib
+
+I have added some functionality
+
